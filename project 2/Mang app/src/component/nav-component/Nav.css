@@ -1,0 +1,67 @@
+.wrapper-div {
+  background-color: #272d2d;
+
+  width: 100vw;
+
+  height: 10vh;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: space-between;
+
+  padding: 10px;
+
+  /* position:sticky; */
+
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+
+  color: #ea80fc;
+}
+
+.app-name {
+  margin-top: 9px;
+
+  margin-left: 7px;
+
+  padding-top: 3px;
+
+  font-size: 2vw;
+
+  font-weight: bolder;
+
+  font-style: italic;
+}
+
+.user-name {
+  margin-top: 15px;
+
+  font-size: 1.35vw;
+
+  font-weight: 500;
+}
+
+/* .nav-search-div{
+
+    background-color: white;
+
+    width: 30vw;
+
+    border-radius: 20px;
+
+    padding: 3px;
+
+} */
+
+.nav-user-div {
+  display: flex;
+
+  align-items: center;
+
+  gap: 5px;
+}
+
+.avatar:hover {
+  cursor: pointer;
+}

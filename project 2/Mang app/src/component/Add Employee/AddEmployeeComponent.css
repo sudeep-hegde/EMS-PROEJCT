@@ -1,0 +1,23 @@
+#card-tile{
+    background-color:#272D2D;
+    padding: 10px;
+    border-radius: 30px;
+}
+#card-tile-title{
+    color:"white";
+    font-style:"italic"
+}
+#form-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#save-button{
+    background-color: aquamarine;
+    color: black;
+    font-weight: 500;
+    margin-right: 3vw;
+}
+#save-button:hover{
+    background-color: #84ffff;
+}

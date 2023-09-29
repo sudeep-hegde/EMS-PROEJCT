@@ -1,0 +1,46 @@
+.container {
+  margin-top: 20px;
+}
+.emp-list {
+  font-size: 2.5vw;
+  font-weight: 600;
+  text-align: center;
+  font-style: italic;
+  letter-spacing: normal;
+}
+
+table {
+  margin: auto;
+  background-color: #272d2d;
+  border: 1px solid whitesmoke;
+  padding: 10px;
+}
+thead,
+td,
+th,
+tr {
+  border-width: 1px;
+  border-color: whitesmoke;
+  padding: 10px;
+}
+.add-button-div {
+    position: absolute;
+  
+    bottom: 20px;
+  
+    margin-left: 80vw;
+  }
+
+#add-button {
+  background-color: #03dac5;
+  color: black;
+  border: none;
+  font-weight: 600;
+}
+.nav-search-div {
+  background-color: white;
+  width: 20vw;
+  border-radius: 20px;
+  padding: 3px;
+  margin-left: auto;
+}
